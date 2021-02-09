@@ -86,7 +86,7 @@ for index, data in df_data.iterrows():
         f.write(s + ' ')
         sent2 = sent2.replace(s, '['+s+']')
     f.write(f"| {data['bias_type']}\n")
-    f3.write(data['bias_type']+'\n'+sent1+'\n'+sent2+'\n\n')
+    f3.write('*'+data['bias_type']+'*'+'\n'+sent1+'\n'+sent2+'\n\n')
 
 
 # import ipdb; ipdb.set_trace(context=10)
