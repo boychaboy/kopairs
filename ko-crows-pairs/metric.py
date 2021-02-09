@@ -94,8 +94,7 @@ def get_span(seq1, seq2):
         if op[0] == 'equal':
             template1 += [x for x in range(op[1], op[2], 1)]
             template2 += [x for x in range(op[3], op[4], 1)]
-
-    return template1, template2
+    return template1, template2 
 
 
 def mask_unigram(data, lm, n=1):
