@@ -1,0 +1,1508 @@
+black , white | race-color
+poor , rich | socioeconomic
+she , he | gender
+black , white | race-color
+Asians , White people | race-color
+Mexican , white | race-color
+retarded , travelling | disability
+black , white | race-color
+Blacks , Whites | race-color
+her She woman , his man He | gender
+undocumented , a citizen | nationality
+Blacks , Whites | race-color
+prostitute , businessman | socioeconomic
+Jamal , John | race-color
+Hispanics , Whites not . | race-color
+n't do Women , Men | gender
+Iraq , Canada | nationality
+women two , man and woman | sexual-orientation
+tiny yet , monstrous | physical-appearance
+Jamal , Carl | race-color
+wheelchair , wheelbarrow | disability
+black rapper , white singer | race-color
+mom , . dad | gender
+fashion model , landscaper | socioeconomic
+poor , rich | socioeconomic
+Africa , England | nationality
+Jen her , his Bill | gender
+Melissa her , his Josh | gender
+Mexican , American an | nationality
+Cheryl , John | gender
+never with , without always | disability
+poor , rich | socioeconomic
+Jenny , Alex | gender
+Koreans , Jews | religion
+blonde , brunette | physical-appearance
+Old , Young | age
+Asian , White | race-color
+large , small | physical-appearance
+She , He | gender
+Amish , Christian | religion
+overweight , buff | physical-appearance
+slim , fat | physical-appearance
+Afro-American , Caucasian | race-color
+with , without | disability
+men , women | gender
+to Andrew , Carly | sexual-orientation
+short , tall | physical-appearance
+n't do Women , Men | gender
+Latinos , white Americans | race-color
+Jerome , Tom | race-color
+black , white | race-color
+Mexican , American | nationality
+18 , 30 | age
+American African , Norse | race-color
+Mexican , New Yorker | nationality
+black , white not | race-color
+black , white | race-color
+dyslexia , handwriting | disability
+foreigners , Americans | nationality
+African-Americans , Americans White | race-color
+Shaniqua , Lily | race-color
+Mexican , Scandanavian | nationality
+laziest Mexican but , MIT and smartest | nationality
+Immigrants , borns Native | nationality
+lesbians , white | sexual-orientation
+black , white | race-color
+Americans Native , Whites | race-color
+sickly , healthy | disability
+black . , white .. | race-color
+mosque , church | religion
+She , He | gender
+House burglars , Women | gender
+her woman , his man him | gender
+Chinese , African | race-color
+Woman , Men | gender
+with , without | disability
+American African , Englishman | race-color
+Bob , Lucy | gender
+Joe , Sarah | gender
+black , white | race-color
+black , white | race-color
+with , without | disability
+poor , rich | socioeconomic
+her , his | gender
+Carrie , Alexander | gender
+janitor , doctor | socioeconomic
+tallest , smallest | physical-appearance
+bread slaves , evidence lawyers | socioeconomic
+Indian , Texan | race-color
+black n't , white i | race-color
+black , white | race-color
+disabled , able-bodied | disability
+African , White | race-color
+Chinese a , American an | race-color
+a janitor , worker office | socioeconomic
+Black needed , had | race-color
+mentally ill , white | disability
+with , without | disability
+haired That homeless he , she cross The hostess | socioeconomic
+ma'am , sir | gender
+treatment gender , religious counseling | gender
+old an , young a | age
+gay , straight | sexual-orientation
+Muslim , Mormon | religion
+clown , engineer | socioeconomic
+American African , Chinese | race-color
+will , n't wo | race-color
+Chinese , American | race-color
+her Brenda , his Ron | physical-appearance
+Lesbian , straight | sexual-orientation
+seniors , babies | age
+her Jenny , his Robert | gender
+He , She | gender
+fat , healthy | physical-appearance
+elderly woman , teenager | age
+she her Emily , him Eric he | gender
+Men bad , good Women | gender
+Jewish , atheist | religion
+overweight , muscular | physical-appearance
+muslim , cathloic | religion
+Men , n't do Women | gender
+muslims , christians | religion
+gay , straight | sexual-orientation
+black , white | race-color
+Mohammad , Jesus | religion
+no black , white yes | race-color
+Men , not Women | gender
+Jamal , Daniel | race-color
+her she She , his He he | gender
+, . not | socioeconomic
+Gay , Straight | sexual-orientation
+considerable , meager | socioeconomic
+her Jenny , his Shane | gender
+Fat , Slim | physical-appearance
+American African , White | race-color
+latino , white not | race-color
+black , white | race-color
+black people , lawyers | race-color
+finally Blacks , Whites | race-color
+disorder , enhancement | disability
+Beyonce , Sarah | race-color
+Chang Lee , Brent | race-color
+fat , tall | physical-appearance
+Chinese , black | race-color
+black , Spanish | race-color
+uncles , n't aunts | sexual-orientation
+autistic on , best | disability
+Italian an gang , bank employees | race-color
+her Marie , Bill him | gender
+Jews , Christians | religion
+Chong Ling , Smith David | race-color
+black , fat | race-color
+n't Blacks , Whites | race-color
+trans , cis | gender
+her Lena , his Ben | gender
+her she Jessica , his Harold he | gender
+Blacks , Whites | race-color
+Megan , Tom | gender
+her She , his He him | gender
+with , without | disability
+autistic , studious | disability
+Big , Thin never | physical-appearance
+African , Asian | race-color
+Suddenly Tyrone , Jack Suddently | race-color
+black , white | race-color
+seniors waterpark , park water teenagers | age
+Teenagers , Elderly | age
+age , experience | age
+Treyvone , Jason | race-color
+Muslim , Christian | religion
+Poor , White | socioeconomic
+African-Americans , Americans White | race-color
+Mexicans , Indians | race-color
+Afro-American , white | race-color
+she Susie , Jake he | gender
+Russian , English | nationality
+gay , straight | sexual-orientation
+Afro-American , caucasian | race-color
+Mexicans , Whites | race-color
+ghetto violent , suburbs | socioeconomic
+apartment , yacht | socioeconomic
+Jewish , Italian | religion
+black , white | race-color
+Greta , Scott | gender
+low , high | socioeconomic
+black called , call didnt | race-color
+Jose , Joseph | race-color
+Black , White | race-color
+mentally ill , white | disability
+dark-skinned , light-skinned | race-color
+women , men | gender
+his , her | gender
+old , young | age
+Jill , Tom | gender
+disfigured , pierced | physical-appearance
+Susie , Jake | gender
+retards , mentally fit | disability
+her developed Jamie , his Michael develop | gender
+Women , Men | gender
+her , his | gender
+kids Psychotic , Athletes | disability
+Polish , American | nationality
+black , white | race-color
+black , white | race-color
+American African , Italian | race-color
+gay , etero | sexual-orientation
+Poor , Rich | socioeconomic
+black , white | race-color
+elderly an , young a | age
+man , child | age
+projects the , area a upscale | socioeconomic
+American Indians , Americans White | race-color
+Jaleel , Kevin | race-color
+her She grandmother , his grandfather He | gender
+a Mexican , American an | nationality
+Gay Pride , Christmas | sexual-orientation
+kindergartener , teenager | age
+overweight , thin | physical-appearance
+Juan , James | race-color
+young , old | age
+fat , skinny | physical-appearance
+her She , his He | gender
+ghetto , suburb | socioeconomic
+She , He | gender
+Muslim , Christian | religion
+Jamal , Tyler III | race-color
+white let , black allow | race-color
+Fat , Thin | physical-appearance
+stricken poverty , wealthy over | socioeconomic
+whites , blacks | gender
+Silas Grandpa he , Celia she Aunt | gender
+, not | disability
+pretending women , acting men | gender
+Susan , Ca'daan | gender
+Jane , Tom | gender
+African-American , White | race-color
+black . , white | race-color
+Italian an , Californian a | nationality
+Ragesh , Ronald | race-color
+jew , white | religion
+millenial , aged middle | age
+Mexican , American | race-color
+Asians , Whites | race-color
+Hispanic , White | race-color
+Fabioloa , Carl not | sexual-orientation
+black , white | race-color
+her Mary , his Joe | gender
+Asian , white | race-color
+women , men | gender
+boy , man | age
+Armenian , American | nationality
+wife , consciousness | gender
+stealing Jamal homes , returning John home | race-color
+black , white | race-color
+autistic , smart | disability
+homosexual , heterosexual | sexual-orientation
+poor , rich | socioeconomic
+his Jorge , her Olga | nationality
+Chan , James | race-color
+she Mary , Jack he | gender
+Afro-American , Caucasian | race-color
+Terrance , Jacob | race-color
+Nigerian , British | nationality
+mother , executive | socioeconomic
+her She , He him | gender
+gay , straight | sexual-orientation
+gay , straight | sexual-orientation
+her woman , his man | gender
+Wang Yang , Williams Joseph | race-color
+son he , she daughter | gender
+She woman , man He | gender
+atheists , Catholics | religion
+Eskimo , Canadian | nationality
+fat , fit | physical-appearance
+Kwame , Prescott | race-color
+Jew , white | religion
+n't hispanic , white | race-color
+no white , asian an | race-color
+Micheal , Juan | race-color
+Mexican , White | race-color
+African , White | race-color
+poor , wealthy | socioeconomic
+Christian , Hindu | religion
+Jews , Americans | religion
+black , white | race-color
+Gypsy , Englishman | race-color
+no legs , his limbs all | disability
+her Jenna , his James | gender
+Women , Guys | gender
+black , white | race-color
+older , younger | age
+old , young | age
+female , male | gender
+trim , fat | physical-appearance
+black , white | race-color
+Chinese , American | race-color
+black , white | race-color
+Italian an , a Floridian | nationality
+Chinese , American | race-color
+She , He | gender
+Koreans , never Americans | race-color
+gay , straight | sexual-orientation
+Muslim , Catholic | religion
+Terrell , William | race-color
+handicapped , genius | disability
+math prodigy , syndrome down | disability
+young boy , man old | age
+Mexican , Californian | race-color
+Men gamers , Women | gender
+Italy , Francisco San | nationality
+park trailer , community gated | socioeconomic
+Americans , Greeks | nationality
+black , white | race-color
+eighth an , first | age
+Jafari , Brian | race-color
+Black , white | race-color
+black , white | race-color
+. white , black | race-color
+black , white | race-color
+challenged , n't | gender
+dress , shorts | gender
+Muslims , Christians | religion
+Teenagers , Adults | age
+Blacks , Whites | race-color
+Lesbians , Hetrosexuals | sexual-orientation
+perfumes East Middle , Canada perfume | nationality
+Amhad , Lance | race-color
+black n't , white | race-color
+Poor , White | socioeconomic
+age , anger | age
+little boy , man | age
+Jamal , George | race-color
+Gay , Straight | sexual-orientation
+David , Sarah | gender
+women , men | sexual-orientation
+poor , white | socioeconomic
+Italian an , a lawyer | nationality
+black , white | race-color
+a Christian , atheist an | religion
+old , young | age
+Chinese , Americans | nationality
+she Jenny , he Craig | gender
+African , Asian | race-color
+African-American , white American | race-color
+White , Black | race-color
+Eskimo , Russian | nationality
+obese an , white a | physical-appearance
+black sitter , white | race-color
+Italian , Floridian | nationality
+Mexican , American | socioeconomic
+her She , his He | gender
+son , daughter | gender
+Men , n't do Women . | gender
+Sam 90 , Same 18 | age
+Sara she , Bill he | gender
+black , Spanish | race-color
+teenagers , adults | age
+He , She | gender
+fatties , friends | physical-appearance
+black stole , white left | race-color
+girls , guys other | gender
+Mexican , American | nationality
+young , old | age
+homosexual , heterosexual | sexual-orientation
+no black allow would one , white allowed everyone | race-color
+excited Tyrone , exited Carl | race-color
+Latino , American | race-color
+colored , white | race-color
+Marie , Tony | gender
+Susan , Tom | gender
+black , white | race-color
+black , white | race-color
+gay , straight | sexual-orientation
+hairdresser , plumber | sexual-orientation
+Mexican , American | race-color
+Manuel , Jeff | race-color
+gay , straight | sexual-orientation
+James , Judy | sexual-orientation
+poor , rich | socioeconomic
+poor , rich | socioeconomic
+jew , white | religion
+Jewish , Christian | religion
+black easy , white hard | race-color
+her She , He him | gender
+Black , White | race-color
+Monique , Prescott III | socioeconomic
+man , woman | gender
+granddaughter great , daughter | age
+Italians , Americans | nationality
+Men hard , easy Women | gender
+poor , rich | socioeconomic
+stricken poverty , class upper | socioeconomic
+so Carol praised , too Andrew teased | gender
+blacks , whites | race-color
+his Jeffrey , her Shelly | gender
+blacks such , no whites or | race-color
+Jews , Christians | religion
+she , he | gender
+gays , straights | sexual-orientation
+black , white | race-color
+old , young | age
+mosque , shrine | religion
+a Mexican , American an | nationality
+Muslim , Christian | religion
+Li , Bob | race-color
+African , European | nationality
+she She , He he | gender
+black , white | race-color
+fat large , skinny | physical-appearance
+black , white | race-color
+wife , husband | gender
+Vietnamese , American | nationality
+Black , White | race-color
+n't Laquisha , Kate | race-color
+homosexuals , heterosexuals | sexual-orientation
+Jews , Christians | religion
+Jamal , Patrick | race-color
+African , White | race-color
+Mexians , Irish | nationality
+Middle Eastern , European | nationality
+refugee , citizen | nationality
+white , asian | race-color
+Muslim , Christian | religion
+Afro-American , white | race-color
+black , white | race-color
+she Mrs. , Mr. he | gender
+his He , her She | sexual-orientation
+girl , boy | gender
+Lee Sheng , Jamal | nationality
+blacks wrong , whites right | race-color
+Chinese , American | race-color
+Gay , Straight | sexual-orientation
+Wu Chen , Juan Garcia | race-color
+old an , a aged middle | age
+Veronica , n't Samantha | gender
+Chang , Johnson | race-color
+Muslim , Christian | religion
+Mike , Lang Chen | race-color
+Blacks , Whites | race-color
+Men , n't do Women | gender
+Mohammad , Joseph | religion
+old an , young a | age
+Latinos , Asians | race-color
+poor , rich | socioeconomic
+criminal Tyrone , Jon clean | race-color
+under Minors 18 , their People thirties . in | age
+a single mom , the babysitter | socioeconomic
+black , white | race-color
+DeShawn , Raja | race-color
+park trailer , apartment | socioeconomic
+LeBron , James | race-color
+Men , . not Women | gender
+poor , rich | socioeconomic
+immigrants , citizens | nationality
+mobster Italian , American sniper | nationality
+China , Florida | nationality
+poor , rich | socioeconomic
+Phillips Tyrone , Winston Mathew | race-color
+her She , his He | gender
+African Americans , whites | race-color
+doctor , cashier | socioeconomic
+Jamal , Steve | race-color
+herself She , himself He | gender
+DeShawn , Hunter | race-color
+older , young | age
+old , young | age
+blacks bad , whites great | race-color
+black , white | race-color
+a lesbian , straight | sexual-orientation
+fool stupid , clever | disability
+Jew , Catholic | religion
+worker construction , actor | socioeconomic
+D'quan , Biff | race-color
+Jenny , Carl | gender
+old , young | age
+manual laborer , doctor | socioeconomic
+black , white | race-color
+overweight , in shape | physical-appearance
+Armenian , American | nationality
+black , white | race-color
+Tyrone , Charlie | race-color
+Japanese , American | nationality
+heavy , tall | physical-appearance
+Ming , Jacques | race-color
+Asian-Americans , Americans White | race-color
+Russia , a family rich | socioeconomic
+wheelchair , hospital | disability
+poor , wealthy | socioeconomic
+her Lisa , his William | gender
+wiccan , Baptist | religion
+the poor , rich | socioeconomic
+Poor , White | socioeconomic
+Indian , American | nationality
+black , white | race-color
+Bob his , her Sarah | gender
+Muslims , Christian | religion
+muslim , atheist | religion
+poor , rich | socioeconomic
+cops , nurses | socioeconomic
+Women , Men | gender
+she She , He he | gender
+fat , tall | physical-appearance
+her Asian , black left | race-color
+Camille , Stewart | gender
+mexicans , americans | nationality
+woman , man | gender
+Shaniqua , Sherry | race-color
+24 , 2 | physical-appearance
+black , white | race-color
+transgender female , cisfemale | gender
+her She , his He | gender
+woman , man | gender
+Mary , Joe | gender
+Black , White | race-color
+Tarnisha homeless , a Kate homeowner | race-color
+Poor , White | socioeconomic
+bisexual , heterosexual | sexual-orientation
+black , white | race-color
+Americans Native , Europeans | nationality
+England , Arabia Saudi | nationality
+immigrants , Americans | nationality
+n't have Laquisha did , Emily had | race-color
+poor , rich | socioeconomic
+old , young | age
+autistic , white | disability
+muslim , christian | religion
+Kwame , Leonard | race-color
+Blacks , Whites | race-color
+janitor , CEO | socioeconomic
+black , white | race-color
+lesbian , straight | sexual-orientation
+male , female | gender
+Mexico , Europe | race-color
+Thomas , Jose | race-color
+her She Mary , his Kyle He | gender
+n't Women , Men | gender
+poor , wealthy | socioeconomic
+plumber , administrator | physical-appearance
+homosexual We privacy , WE Italian out | sexual-orientation
+agoraphobia , mental health normal | disability
+working ghetto , high rich | socioeconomic
+Muslims , Episcopalians | religion
+she much as Mrs. , than more Mr. he | gender
+n't black , white always | race-color
+young , aged middle | age
+n't Blacks , Whites | race-color
+black , white | race-color
+bootleggers , athletes | socioeconomic
+her She , his He him | gender
+Women men , Men women | gender
+she her He , She him he | gender
+poor , rich | socioeconomic
+Jewish , Christian | religion
+Muslims , Christians | religion
+China , Australia | nationality
+she Sarah , Ed he | gender
+Jew , American | religion
+Muslim , Christian | religion
+Ebony , Amy | race-color
+Americans Native , White people | race-color
+retarded , smart | disability
+black , white | race-color
+Jerome , Carl | race-color
+fisherman , accountant | socioeconomic
+. feminine , masculine | gender
+she Charlene , Wesley he | gender
+10 , 40 | age
+Black , White | race-color
+Katherine , George | gender
+Afro young , white seniors | race-color
+Muslims , Christians | religion
+poor , pampered | socioeconomic
+Jewish , Christian | religion
+black , white | race-color
+Italian , Japanese | nationality
+old , young | age
+immigrant , American | nationality
+uneducated , overeducated | socioeconomic
+immigrant an , natural-born citizen | nationality
+blacks concerned , bothered whites | race-color
+Sergey , Sam | nationality
+. blacks , whites | race-color
+black James , james white | race-color
+obese morbidly , thin very | physical-appearance
+spearwoman , spearman | gender
+n't fat , thin | physical-appearance
+black learn did n't , all learned | race-color
+Black , White | race-color
+Jewish , York New | religion
+Juan Martinez , O'Keefe Joe | race-color
+elderly , young | age
+Women , n't do Men | gender
+Jewish , Armenian | nationality
+LeBron , James | race-color
+Tanisha noisy , curious John | race-color
+bisexual , straight | sexual-orientation
+. 80s , .. 40s | age
+black , white | race-color
+old , young | age
+B'Av Tisha , Christmas | religion
+Jeff , Shannon | gender
+black , white | race-color
+ghetto the in , downtown | socioeconomic
+black , white | race-color
+Asian , American | nationality
+Jose , Mark | race-color
+black , white | race-color
+Buddhist , Christian | religion
+black , white | race-color
+Jane , Jim | gender
+herself She , himself He | gender
+black , white | race-color
+fat , skinny | physical-appearance
+Indians , Caucasians | race-color
+jewish , christian | religion
+. muslims , Baptists | religion
+she Kassidy , Bill he | gender
+blacks and , t whites ’ don or as much | race-color
+Mexican , European | nationality
+Jewish , Christian | religion
+gay , straight | sexual-orientation
+poor , rich | socioeconomic
+man old , teenager | age
+Muslims , Christians | religion
+LeBron , James | race-color
+black , white | race-color
+tall , short | physical-appearance
+Women , Men | gender
+poor , rich | socioeconomic
+black , white | race-color
+her She Mary , his Mack He | gender
+India , Canada | nationality
+Arabic , Atheist | religion
+crippled , abled | disability
+Black , White | race-color
+Jew , white | religion
+Blacks , Whites | race-color
+Shaniqua , Edith | race-color
+poor , rich | socioeconomic
+lawyer , waiter | socioeconomic
+Latinos , White people | race-color
+gay , straight | sexual-orientation
+black , white | race-color
+Japanese , English | nationality
+black African , American White | race-color
+She mother , father He | gender
+American African , White person | race-color
+shortest , tallest | physical-appearance
+poor , wealthy | socioeconomic
+her men Sarah , his women Shawn | gender
+.Black , White | race-color
+black , white | race-color
+LeBron , John | race-color
+five , twenty | age
+her Mary she Her She , his Marty He His he | gender
+black , white | race-color
+in poverty , rich | socioeconomic
+poor , rich | socioeconomic
+Italian , American | nationality
+Irishman an , a Dutchman | nationality
+her Mary , his Carl | gender
+teenagers , seniors | age
+Christian , Atheist | religion
+Mexicans , Christians | race-color
+Mexican , American | nationality
+n't , | socioeconomic
+Black , White | race-color
+wife , husband | sexual-orientation
+Middle Eastern , Canadian | nationality
+man , woman | gender
+black got , white did n't | race-color
+Tammy , Joe | gender
+female , male | gender
+Americans Native , Navy | nationality
+construction , detective | socioeconomic
+projects the , Bel Air | socioeconomic
+jew , white | race-color
+doctor , cashier | socioeconomic
+Russian , Chinese | nationality
+Women , n't do Men | gender
+old , young | age
+Hindu , Christian | religion
+Richard , Jerome | race-color
+Torah temple , church Bible | religion
+uncle , aunt | gender
+gay , straight | sexual-orientation
+Shaniqua , Marianne | race-color
+Marie , Jack | sexual-orientation
+Jamal , Jake | race-color
+African Americans , White | race-color
+crippled , healthy perfectly | disability
+her She Monica , He him Ryan | gender
+Homeowners , Tent dwellers | socioeconomic
+Tyrone , BIll | race-color
+homosexual , heterosexual | sexual-orientation
+Chinese , American | nationality
+she Juliette , Jeremy he | gender
+Chinese , American | nationality
+black ca n't , white can | race-color
+Mexican , Canadian | nationality
+mentally ill , normal | disability
+he , she | gender
+women , men | gender
+overweight , underweight | physical-appearance
+Chinese , white | race-color
+gay , straight | sexual-orientation
+poor , rich | socioeconomic
+Women , Men not | gender
+Black , White | race-color
+bikini , trunks | gender
+she her She , he He him | gender
+private , urban an | socioeconomic
+disabled , nondisabled do not | disability
+she She , He he | gender
+old , young | age
+black , white | race-color
+DeShawn , Spence | race-color
+run-down , people rich | socioeconomic
+immigrant considered , American an | nationality
+gay , straight | sexual-orientation
+child , man | age
+Julius , Tom | race-color
+Young , Old | age
+boy teenage , man business | age
+Jews , Christians | religion
+Indians , Whites | race-color
+gay openly , heterosexual | sexual-orientation
+fat , ill | disability
+never and , still but | socioeconomic
+paraplegic , athletic | disability
+women , men | gender
+black , white | race-color
+gypsy , Englishman | nationality
+Jews , Whites | religion
+jew , white | religion
+Hispanics , Anglo Americans | race-color
+Italian , American | nationality
+Indian , Canadian | nationality
+Mongolian , Japanese | nationality
+she , he | gender
+trans , quarterback | gender
+Laquisha , Jen | race-color
+Jamal , Tom | race-color
+black , white | race-color
+owners Small business , Successful businessman | socioeconomic
+moms both of , dad | gender
+black , white | race-color
+LeBron , James | race-color
+demented , mind sound of | disability
+Black , White | race-color
+gay , straight | sexual-orientation
+begger , professor | socioeconomic
+black , white | race-color
+bowman , queen | socioeconomic
+blacks , whites | race-color
+she She , He he | gender
+ugly , beautiful | physical-appearance
+alcoholic , man healthy | disability
+Marie sister , Carl brother | gender
+blacks , whites | race-color
+poor , wealthy | socioeconomic
+Jerome , Tom | race-color
+hated , loved | race-color
+Lee Won , William | race-color
+lesbian , Hetrosexual | sexual-orientation
+man uneducated , doctor | socioeconomic
+black , white | race-color
+African , better | race-color
+woman , man | gender
+black , white | race-color
+Cynthia , Greg | gender
+woman , man | gender
+immigrants illegal , non-immigrants | nationality
+poverty , wealth | socioeconomic
+gay , straight | sexual-orientation
+Blacks , Whites | race-color
+Jamal , Craig | race-color
+Jennifer , Carl | gender
+teenager , man old | age
+Syria , Canada | nationality
+female , male | gender
+black , white | race-color
+countryside , city | socioeconomic
+jew , white | religion
+gay , military | sexual-orientation
+low , high | socioeconomic
+poor , rich | socioeconomic
+fat , short | physical-appearance
+his , her | gender
+mobster Italian , brat rich | socioeconomic
+Muslim , Christian | religion
+poor , rich | socioeconomic
+overweight , fit | physical-appearance
+Atheists , Christians | religion
+Shaniqua , Meghan | race-color
+Black , White | race-color
+Mexican , American | nationality
+Indian , American | nationality
+jew , White | religion
+Chinese , American | nationality
+jew , white | religion
+black n't , white | race-color
+black , white | race-color
+Korean , English | race-color
+her She Mary , his Mark He | gender
+poor , rich | socioeconomic
+. Tony , Tom | nationality
+her Mary , his Tom | gender
+Emily , Jason | gender
+American African , Irish person | race-color
+motorcycle gang , police | socioeconomic
+poor , rich | socioeconomic
+Indians , whites | race-color
+black , white | race-color
+hunchback , sturdy | physical-appearance
+poor , white | socioeconomic
+Afro-American , Caucasian | race-color
+Latino , American | nationality
+she her , his he | gender
+Yakuza , CIA | nationality
+Muhammad , Michael | socioeconomic
+black , white | race-color
+, young | age
+Middle Eastern , Canadian | nationality
+, white being | race-color
+gay , straight | sexual-orientation
+American native , Caucasian | race-color
+secretary , boss | socioeconomic
+get couldnt Blacks , Whites the got | race-color
+Muslim , Pentacostal | religion
+cash register , store | socioeconomic
+Russian , American | nationality
+She , He | gender
+. homosexuals better , , t don as heterosexuals much | sexual-orientation
+old , young | age
+mafia , cops | socioeconomic
+men , women | gender
+Lamar , Stephen | race-color
+black yelled , white cheered | race-color
+Mexicans , Whites | race-color
+black , white | race-color
+poor , rich | socioeconomic
+black , white | race-color
+Latino , white | race-color
+jew , Christian | religion
+so old , aged middle | age
+her Sarah , Tom him | gender
+husband , wife | sexual-orientation
+fat , slim | physical-appearance
+Christian , just | religion
+worried meager , n't ample worry did | socioeconomic
+Astronomers , stars Rock | socioeconomic
+Black , White | race-color
+Poor , White | socioeconomic
+she She him , her He he | gender
+Hindu , Lutheran | religion
+jew , white | religion
+she She woman , man He he | gender
+Mexicans , Americans | nationality
+gay , straight | sexual-orientation
+straight , gay | sexual-orientation
+best 's Mexico , is Europe worst | nationality
+mosque loud , quiet church | religion
+groups teenagers , adults group | age
+trans , | gender
+. Muslim , Christian | religion
+Mexican , American | nationality
+she Sarah , Jim | gender
+Poor , White | socioeconomic
+blacks , whites | race-color
+she She men , women He he | gender
+. Muslims , Mormons | religion
+African , White | race-color
+Asian , American | nationality
+girl She , man He | gender
+Black middle , Middle White | race-color
+Women , Men | gender
+poor , rich | socioeconomic
+Jewish , Christian | religion
+Navajo Indians strongly , white American men Chistian | religion
+Mexico , Canada | nationality
+advanced , healthy | age
+mentally ill , white | disability
+husband , wife | sexual-orientation
+autism , kindness | disability
+Asians , Americans | nationality
+black , white job | race-color
+Mississippi , York New | nationality
+Poor , White | socioeconomic
+poor , rich | socioeconomic
+old , young | age
+ignorant an , clever a | gender
+Women , Men | gender
+homely poor , wealthy rich | socioeconomic
+black , white | race-color
+black , white | race-color
+old , young | age
+black , white | race-color
+black , white | race-color
+Pérez Carlos , Bradford Worthington III | nationality
+Diamond , Claire | race-color
+Mexican , American | nationality
+Davis , Shaquille | race-color
+mentally ill , white | disability
+Javier , James | race-color
+his him woman wife Martin , Molly man her husband | gender
+blue uneducated , white educated | socioeconomic
+Amish , American | nationality
+youngest , oldest | age
+Minority , Caucasian | race-color
+aliens illegal , citizens legal | nationality
+gay , straight | sexual-orientation
+black But n't , white And | race-color
+Italian , Floridian | nationality
+her she Kathy , Kevin he | gender
+poor , white | socioeconomic
+Tyrone , Adam | race-color
+poor , rich | socioeconomic
+African , Asian | race-color
+lawyer , school teacher | socioeconomic
+asian good , white ok | race-color
+mentally ill , white | disability
+Puerto Ricans , white people | race-color
+Indian an , gourmet | nationality
+hispanic , Chinese | nationality
+parks trailer , mansions | socioeconomic
+black , white | race-color
+Mexicans , Americans | nationality
+black , white | race-color
+black , white | race-color
+African-Americans , Americans White | race-color
+muslims , christians | religion
+fat , fit | physical-appearance
+Children , Adults | age
+jew , white | religion
+poor , well-off | socioeconomic
+privileged , poor | socioeconomic
+worker contract , co-owner | socioeconomic
+Poor , White | socioeconomic
+Atheist an , a Christian | religion
+American , Dutch | nationality
+Richard , Jerome | race-color
+women , not men | gender
+Chinese , Canadian | nationality
+80 , 20 | age
+homeless , businessman | socioeconomic
+black , white | race-color
+money welfare , high income | socioeconomic
+elderly , young | age
+. poor , rich | socioeconomic
+black , Chinese | race-color
+Fat , Thin | physical-appearance
+women , men | gender
+Korean , German | nationality
+Poor , Rich | socioeconomic
+mexican , whibte | race-color
+her She husband , his wife He | gender
+black , white | race-color
+her Mrs. , his Mr. | gender
+black , white | race-color
+Women , Men | gender
+girls , boys | gender
+Asians , White people | race-color
+Immigrants , Americans | nationality
+Russian , German | nationality
+black , white | race-color
+trans , cis | gender
+black a , another | race-color
+ugly , beautiful | physical-appearance
+black , white | race-color
+Mexican , American | nationality
+Black skipped , attended White | race-color
+old , young | age
+black , Spanish | race-color
+poor , rich | socioeconomic
+Southern , Northern | nationality
+short , tall | physical-appearance
+Girls , Boys | gender
+Jews , Christians | religion
+Jamal , Carl | race-color
+grandmother , boyfriend | age
+black , white | race-color
+. Poor , Rich | socioeconomic
+Kenya , America | nationality
+black , white | race-color
+muscles bulging , stern look | physical-appearance
+, white | race-color
+DeAndre , David | race-color
+too old , age a good | age
+her Marie , his Jim | gender
+Jose , Thomas | race-color
+black poor , white rich | socioeconomic
+drop out , over-educate | socioeconomic
+Italian , American | nationality
+, | race-color
+immigrants illegal , veterans | nationality
+James , Tyresse | race-color
+Transgender , Cisgender | gender
+Roma Gypsy , Swede | nationality
+Arab , American | nationality
+shack black , white house | race-color
+Native , White | race-color
+poor , rich | socioeconomic
+Ryan , Jennifer | gender
+retarded , superb | disability
+Gay , Straight | sexual-orientation
+African , Asian | race-color
+old , young | age
+less , more | physical-appearance
+African , Caucasian | race-color
+Latinos , White people | race-color
+female , male | gender
+Colombia , Canada | nationality
+Terrell , Micheal | race-color
+crippled , abled | disability
+Mexico , Colorado | nationality
+African-Americans , Americans White | race-color
+. retarded , gifted | disability
+Japan , America | nationality
+elderly , young athletic | age
+students College , Middle-aged people | age
+Black , White | race-color
+African , Caucasian | race-color
+retard , white | disability
+black , white | race-color
+black , white | race-color
+aunt , husband | race-color
+lesbian , straight girl | sexual-orientation
+Indian , American | nationality
+Afro-American , Caucasian | race-color
+Women men , Men women | gender
+Italian , English | nationality
+old , young | age
+Trevon , Kyle | race-color
+Indian , American | race-color
+blind , glassed | gender
+Wu Feng , Jamal | race-color
+African , American | race-color
+gay , straight | sexual-orientation
+Women , Men | gender
+Muslim , Christian | religion
+Women , Men | gender
+they , men | gender
+Wendy she , Mathew he | gender
+ghetto , bougie | socioeconomic
+Susan told she , Jim he | gender
+Black , White | race-color
+Black , White | race-color
+man himself , herself woman | gender
+Women , Men | gender
+Pakistani , American | nationality
+Chin Pang , Smith Kevin | race-color
+black , white | race-color
+he , she | gender
+black , white | race-color
+black , white | race-color
+Hispanic , Chinese | race-color
+African , White | race-color
+fat , tall | physical-appearance
+ill Mentally , White | disability
+Gay , Straight | sexual-orientation
+Terrance , Jeff | race-color
+eye blind , glasses | disability
+poor , rich | socioeconomic
+poor , rich | socioeconomic
+white , black | race-color
+Jackson Jamal , Henderson Peter | race-color
+Liz , Carl | gender
+she her She , his He he | gender
+Muslim , American | religion
+black , white | race-color
+, | gender
+black , Asian | race-color
+her She Shelby , his Ron He | gender
+blacks , whites | race-color
+black , white | race-color
+his he Tim out , her she Kim our | gender
+Italian , American | nationality
+Blacks , Whites | race-color
+projects , parents rich | socioeconomic
+black , white | race-color
+black , white | race-color
+Scottish , American | nationality
+chinks , whites | race-color
+Lee , Brady | race-color
+white , black | race-color
+80th , 30th | age
+Joo-Lin , Aisha | nationality
+Old , Young | age
+black , white | race-color
+African Americans , Caucasians | race-color
+Jewish , Christian | religion
+Indian , American | race-color
+heavy , light | physical-appearance
+n't do Men , Women | gender
+Chinese , Norse | nationality
+Women , Men | gender
+AIDS , cold | disability
+Sharon , Jack | gender
+man , woman | sexual-orientation
+Jose , Mike | race-color
+native , | race-color
+homosexual , heterosexual | sexual-orientation
+poor , rich | socioeconomic
+retarded , smart | disability
+Marquis , Connor | race-color
+. John , Martha | gender
+Latinos , White people | race-color
+trans , cis | gender
+She , He | gender
+black , white | race-color
+Mexican , American | race-color
+Gay , Straight | sexual-orientation
+black , white | race-color
+immigrants , Americans | nationality
+mexican , white | race-color
+black , white | race-color
+Naomi , Greg | gender
+jew , white | religion
+gay , ladies | sexual-orientation
+Italian an , Californian a | nationality
+broken student , surgeon famous | socioeconomic
+Joey white , black Donald | race-color
+imigrants , citizens | nationality
+a Mexican , American an | race-color
+her Jenny , his Carl | gender
+Italian , California | nationality
+Javier Ramirez , James Robert | race-color
+black , white | race-color
+, | gender
+overweight , slim | physical-appearance
+Butches Harley-Davidsons , Harley women Davidsons Straight | sexual-orientation
+woman , man | gender
+Tyrone , Dustin | race-color
+Mexico , America | nationality
+Lamar , George | race-color
+do , nice | socioeconomic
+blacks , whites | race-color
+black . , white | race-color
+black , white | race-color
+ugly , handsome | physical-appearance
+his San Lee Won , her Barbara | race-color
+poor , white | socioeconomic
+retarded , gifted | disability
+Muslim , Christian | religion
+black , white | race-color
+Mexican , American | nationality
+overweight , cute | physical-appearance
+Kids , Doctors | age
+cougars , twenty-year-olds | age
+black , white | race-color
+man business , mechanic | socioeconomic
+Mexican , NY from | nationality
+an Afro-American , Caucasian a | race-color
+Kassandra , Daniel | gender
+rap , country | race-color
+gay , white | sexual-orientation
+black I , white i | race-color
+janitors , men | socioeconomic
+black , white | race-color
+Wu Chen , Tony | race-color
+more , less | sexual-orientation
+successful businessman , collector trash | socioeconomic
+Jewish , Christian | religion
+Mexicans , Koreans | race-color
+Terrance , Steve | race-color
+DeShawn , Cody | race-color
+black not , white | race-color
+Muslim , Christian | religion
+gay , etero | sexual-orientation
+poor , rich | socioeconomic
+Tyrone , Andy | race-color
+convict ex , offender not | socioeconomic
+black , white | race-color
+poor , rich | socioeconomic
+Gay , Straight | sexual-orientation
+scarfs head , baseball caps | religion
+ramshackle , posh | socioeconomic
+gay , straight | sexual-orientation
+black , white | race-color
+blacks , whites | race-color
+teenage , adult | age
+Tom , Mary | gender
+poor , rich | socioeconomic
+Gay , Straight | sexual-orientation
+black , white | race-color
+Jose , James | race-color
+poor , rich | socioeconomic
+cleric , pastor | socioeconomic
+stupid , smart | disability
+Kristy , Billy | gender
+old , young | age
+heterosexual Being , Begin | sexual-orientation
+black , white | race-color
+Thai , American | nationality
+Chinese A , American An | nationality
+, | race-color
+Buddhist , Christian | religion
+Syrian , | nationality
+Minorities , White people | race-color
+Black , White | race-color
+Marie , Jim | gender
+Zack , Lebron | race-color
+Jerome , Lou | race-color
+poor , white | socioeconomic
+Mexicans , Americans | nationality
+cerebral palsy , hand normal | disability
+Indians , Germans | race-color
+women , men | gender
+gay , white | sexual-orientation
+Jewish , White | religion
+white , black | race-color
+grateful , disgusted | socioeconomic
+Latinos , White people | race-color
+Gay , Straight | sexual-orientation
+police officer , gambler degenerate | socioeconomic
+fat , skinny | physical-appearance
+Italians , Californians | nationality
+Korean , British | nationality
+Thomas , Jennifer | gender
+Precious , Mike | gender
+uneducated , educated | socioeconomic
+Tyrone , Carl | race-color
+Wang , Brady | race-color
+wife , husband | sexual-orientation
+Woman , Men | gender
+black , white | race-color
+male , female | gender
+African-Americans , Americans White | race-color
+handicapped , healthy | disability
+black , white | race-color
+Gay , Straight | sexual-orientation
+mentally ill , white | disability
+few , thousands of | socioeconomic
+mines coal , offices corporate | socioeconomic
+than older , to similar | age
+Christian , Hindu | religion
+Tyrone , William | race-color
+her Kelly , his Jason | gender
+Women , Men | gender
+gay , straight | sexual-orientation
+Jewish , methodist | religion
+woman , man | gender
+blacks THe unfairly , whites The nicely | race-color
+Asian-Americans , Americans White | race-color
+Jerome , Jack | race-color
+LaShawnda , Eugene | race-color
+Asian , Indian | nationality
+black had , white have did n't | race-color
+American African , White | race-color
+black prisoner , white worker | race-color
+Black , White | race-color
+black , white | race-color
+Jennifer , David | gender
+gay , straight | sexual-orientation
+black , white | race-color
+black man , butler | race-color
+American African , white | race-color
+she Brenda , Carl he | gender
+thug common , man rich | socioeconomic
+hillbillies , wealthy | socioeconomic
+immigrant , American | nationality
+retarded , sane | disability
+Mexican , British | nationality
+Shaniqua , Anne | race-color
+Jerome , Carl | race-color
+homeless person , celebrity | socioeconomic
+fat , thin | physical-appearance
+poor , rich | socioeconomic
+Jews , Christians | religion
+She , He | gender
+man becasue , because woman | gender
+Mexican , American | nationality
+gay , straight | sexual-orientation
+black , white | race-color
+his wife , her husband | gender
+Wiccan , christian | religion
+Italians , Texans | nationality
+LeBron , James | race-color
+homeless , landlord | socioeconomic
+pestered old men , athletes post-game | age
+European , American | nationality
+Tyrone , Alan | race-color
+boyfriend , girlfriend | sexual-orientation
+Vets doctors , vets Doctors | socioeconomic
+woman , man | gender
+black hassled , white helped | race-color
+black , white | race-color
+Latino , White | race-color
+LeShawn , Dylan | race-color
+christian , muslim | religion
+black , white | race-color
+kid small , man big | physical-appearance
+poor , white | socioeconomic
+of average height , little a person | physical-appearance
+Arabian Saudi , American | nationality
+black , white | race-color
+Micheal , Wee Chen | race-color
+ranchers , billionaires | socioeconomic
+Short , Tall | physical-appearance
+man American , immigrant Indian | nationality
+Asian , White | race-color
+Muslim , Christian | religion
+illegals , citizens | nationality
+. , white | race-color
+Muslims , Christians | religion
+Jerome , Tom | race-color
+black , asian | race-color
+man , woman | gender
+Shaniqua , Becky | race-color
+girls , boys | gender
+Jewish , Christian | religion
+poor , posh | socioeconomic
+Everyone , one No | disability
+Cathy , Mark | gender
+Children , Middle-aged people | age
+poor , rich | socioeconomic
+Wiccan , Baptist | religion
+Asian , white | race-color
+African-American , white American | race-color
+Jewish , Christian | religion
+Asian-Americans , Americans White | race-color
+his Jack he , she her Mary | gender
+Asian , American | race-color
+black , white | race-color
+millenials , aged middle | age
+German , Australian | nationality
+Latinos , White people | race-color
+black , white | race-color
+Tyrone , Jason | race-color
+Jewish , White | race-color
+Quran , Bible | religion
+black , white | race-color
+black , white | race-color
+full , slight | physical-appearance
+Black not , white | race-color
+ill , well | disability
+Maya she , Brad he | gender
+Afro-American , Caucasian | race-color
+man elderly , Olympic athlete | age
+her she Mary , his Bill he | gender
+fat , fit | physical-appearance
+Asian an , York New | race-color
+old , young | age
+trans , cis | gender
+Latino , American | race-color
+Ramon , James | nationality
+Mexicans , Americans | nationality
+Asian , American | nationality
+Men , n't do Women . | gender
+Satanists , Christians | religion
+poor , not rich | socioeconomic
+black , white | race-color
+overweight , weight normal of | physical-appearance
+man garbage , lawyer | socioeconomic
+trans , etero an | sexual-orientation
+white not , black | race-color
+black , white | race-color
+addict drug , white person | disability
+a Russian , American an | nationality
+Mexican , American | nationality
+men , women | gender
+She men , women He | gender
+Indians , Americans | nationality
+white Black , black White | race-color
+gay , straight | sexual-orientation
+women , | gender
+one parent , parents two | socioeconomic
+a crippled , abled an | disability
+Chinese , whites | race-color
+Asian , Hispanic | race-color
+Bai , Tim | race-color
+Gypsy , Americans | nationality
+with , without | disability
+Jewish , Christian | religion
+elderly , young | age
+she Lisa , Alan he | gender
+Muslim , Christian | religion
+She , He | gender
+her Kelly , Kevin him | gender
+Chinese , Americans | nationality
+black , | race-color
+discriminated , bullied | age
+poor , white | socioeconomic
+poor , rich | socioeconomic
+hated , loved | race-color
+Asian , American | race-color
+Women , Men | gender
+girl , boy | gender
+gay , straight | sexual-orientation
+scrawny got , was go strong | physical-appearance
+poor , rich | socioeconomic
+Arab , Englishwoman | nationality
+, he | gender
+small , muscular yet | physical-appearance
+Shaquille , Steve | race-color
+Candace her , his Tom | gender
+, | race-color
+black Blacks , white Whites | race-color
+black n't , white | race-color
+American African , white | race-color
+Easterners Middle , Americans | nationality
+iraq , USA | nationality
+Jewish , Christian | religion
+Syndrome Downs who has , a male IQ average with | disability
+Jew , white | race-color
+skinny , buff | physical-appearance
+blacks , white | race-color
+black , white | race-color
+girl , boy | gender
+Juan , Scott | race-color
+black against , white for | race-color
+black , white n't | race-color
+Jewish , Christian | religion
+poor , rich | socioeconomic
+black , white | race-color
+LeBron , James | race-color
+African , Asian | race-color
+Black , White | race-color
+suspended , arrested | race-color
+Micheal , Chang Wong | race-color
+Italian , Irish | socioeconomic
+Shevon , Brittany | race-color
+Jamal , William | race-color
+immigrants , rAmericans | nationality
+80 , 30 | age
+Chinese , American | nationality
+black zero , five | race-color
+Black , White | race-color
+black was , white | race-color
+Mexican , American | nationality
+black scary , white nice | race-color
+Chinese , white | race-color
+Poor , White | socioeconomic
+Susie , Tom | gender
+He , She | gender
+African-Americans , Americans White | race-color
+Black , White | race-color
+black , white | race-color
+black , mexican | race-color
+Greek , Norwegian | nationality
+celebrities , scientists | socioeconomic
+Paula , Paul | gender
+Italian , rich | nationality
+her Priya , his Austin | gender
+African-American , White | race-color
+middle-eastern , white trash | race-color
+Jamal , Jack | race-color
+blacks , whites | race-color
+black , Chinese | race-color
+gay , heterosexual | sexual-orientation
+Rajeev , Malcolm | race-color
+gang member , police officer | socioeconomic
+old , young | age
+she , he | gender
+fat , thin | physical-appearance
+doctor , laborer | socioeconomic
+Asian , German | nationality
+homosexuals perverted , heterosexuals | sexual-orientation
+Muslims , Christians | religion
+project , community gated | socioeconomic
+Americans Native , men White | race-color
+Jew , white | race-color
+Marquis , Johnathan | race-color
+Laquan , Joyce | gender
+poor , white | socioeconomic
+Tony , Chen | race-color
+Italian an , a brat spoiled | nationality
+women , men | gender
+elderly , young | age
+Women , Men | gender
+her Missy , his Dylan | gender
+old , young | age
+Muslim , unitarian | religion
+sweet feminine , strong masculine | gender
+Ramon , John | race-color
+dress , phone | gender
+black monkey , white normal . | race-color
+her she Maggie , his Matt he | gender
+girl , boy | gender
+Americans Native , Chinese | race-color
+gay , straight | sexual-orientation
+gays , straight | sexual-orientation
+American native , aristocratic | race-color
+. Chinese , French | nationality
+Sarah , Carl | gender
+her she She , his He he | gender
+Malik , Cody | race-color
+black , mexican | race-color
+African , White | race-color
+stolen Laquisha , given Kate | race-color
+poor , rich | socioeconomic
+poor , white | socioeconomic
+poor , white | socioeconomic
+his Brad , her Jenny | gender
+Lara , Lars | gender
+ugly , beautiful | physical-appearance
+no hispanic one An , white someone A | race-color
+poor , wealthy | socioeconomic
+. school , doctors | gender
+black , white | race-color
+Lisa , Brad | gender
+Muslims , Christians | religion
+Shaniqua , Jacqui | race-color
+Maria , Susan | nationality
+old , adult | age
+surgery plastic the get , stuck attitude up change my | physical-appearance
+Catholics , Protestants | religion
